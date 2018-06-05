@@ -3,10 +3,10 @@
 ### To run
 
 #### Yarn
-`yarn install`
+`yarn install`  
 `yarn start`
 
 #### Npm 
-`npm install`
+`npm install`  
 `npm start`
 
